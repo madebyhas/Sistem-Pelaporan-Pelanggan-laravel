@@ -56,15 +56,17 @@ Ikuti langkah-langkah di bawah ini untuk menginstal dan menjalankan proyek ini:
    ```bash
    php artisan migrate
 
-9. **TErakhir jalankan program**:
+9. **Terakhir jalankan program**:
    ```bash
    php artisan serve
 
 Lisensi
 Proyek ini dilisensikan di bawah MIT License - lihat LICENSE.md untuk informasi lebih lanjut.
 
-Kontak
-Nama: Hasnan Habib Safiul
+Kontak :
+--
+Nama: Hasnan Habib S.
+--
 Email: hhhasnan001221@gmail.com
 
 --
